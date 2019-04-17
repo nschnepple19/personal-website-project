@@ -1,10 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
+<head>
 		<meta charset="UTF-8">
 		<title>PWP Milestone One</title>
-	</head>
+</head>
 
-	<body>
+<body>
+
 		<h2>Purpose, Audience, Goal</h2>
-	</body>
+
+		<ul>
+			<li><strong>Purpose:</strong></li>
+		</ul>
+
+</body>
