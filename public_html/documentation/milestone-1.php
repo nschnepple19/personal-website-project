@@ -10,6 +10,7 @@
 
 	<h2>Purpose, Audience, Goal</h2>
 
+
 	<ul>
 		<li><strong>Purpose:</strong> This website will be a professional portfolio to
 			show off to possible employers.</li>
@@ -41,7 +42,12 @@
 		employee to build the task at hand and see consistency in his websites. He also needs a fully functionable website
 		due to his device availability.</p>
 
+	<p><strong>Goals:</strong> Rickey has one thing in mind when searching for a possible candidate. He requires the skill
+		to do the job and the full-time long-term commitment to stay with the company> His goal is to have the skilled
+		committed employee within 4 months.</p>
 
+	<p><strong>User Story:</strong> As a user I need to see whether the candidate has the required skill and passion to work
+		alongside my colleagues and me.</p>
 
 
 
