@@ -8,6 +8,8 @@
 
 <body>
 
+	<div class="box">
+
 	<h2>Purpose, Audience, Goal</h2>
 
 
@@ -49,7 +51,7 @@
 	<p><strong>User Story:</strong> As a user I need to see whether the candidate has the required skill and passion to work
 		alongside my colleagues and me.</p>
 
-
+	</div>
 
 
 </body>
