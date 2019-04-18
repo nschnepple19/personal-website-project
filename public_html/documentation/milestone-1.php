@@ -50,7 +50,7 @@
 		to do the job and the full-time long-term commitment to stay with the company> His goal is to have the skilled
 		committed employee within 4 months.</p>
 
-	<p><strong>User Story:</strong> As a user I need to see whether the candidate has the required skill and passion to work
+	<p><strong>User Story:</strong> As a user, I need to see whether the candidate has the required skill and passion to work
 		alongside my colleagues and me.</p>
 
 	</div>
