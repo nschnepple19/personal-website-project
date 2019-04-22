@@ -22,4 +22,12 @@
 		throughout the boot camp so far and it will also give a brief description on my
 		skills in front end web development.</p>
 
+		<p><strong>Portfolio:</strong> I want my portfolio to include at least two examples
+		of work I have completed in the class. I want the projects to bring me right to the
+		deployment when clicked.</p>
+
+		<p><strong>Contact:</strong> This section will contain a simple contact form which
+		allows employers to contact me through my professional email and links to my
+		professional LinkedIn and GitHub account to view projects i have done.</p>
+
 	</body>
