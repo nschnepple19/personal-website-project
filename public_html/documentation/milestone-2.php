@@ -11,4 +11,8 @@
 		<p>My site will be one page, and will consist of the following
 		sections.</p>
 
+		<p><strong>Welcome:</strong> This is a simple one line
+		introduction to my website that includes my name and
+		my role as a web developer.</p>
+
 	</body>
