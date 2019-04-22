@@ -30,4 +30,9 @@
 		allows employers to contact me through my professional email and links to my
 		professional LinkedIn and GitHub account to view projects i have done.</p>
 
+
+		<img src="mobile.jpg" alt="mobile-wire-frame">
+
+		<img src="desktop.jpg" alt="desktop-wire-frame">
+
 	</body>
