@@ -11,20 +11,17 @@
 		<p>My site will be one page, and will consist of the following
 		sections.</p>
 
-		<p><strong>Welcome:</strong> This is a simple one line
-		introduction to my website that includes my name and
-		my role as a web developer.</p>
+		<p><strong>Welcome:</strong> This will be a brief introduction
+			stating my name and my role as a web developer.</p>
 
 		<p><strong>About Me:</strong> This section of my PWP will include
-		my work history, and my experience with computers and programming
-		prior to the boot camp. It will also include my strengths and weaknesses
-		in the work environment it will feature the social and tech skills I have learned
-		throughout the boot camp so far and it will also give a brief description on my
-		skills in front end web development.</p>
+		my skill set in front end web development. This section will showcase
+		the languages and skills i have learned throughout the boot camp. this section
+		will also showcase my social skills and my ability to work well with a team. </p>
 
 		<p><strong>Portfolio:</strong> I want my portfolio to include at least two examples
-		of work I have completed in the class. I want the projects to bring me right to the
-		deployment when clicked.</p>
+		of work I have completed in the class. I want the projects to be an interactive image gallery
+		containing some of the work completed by me.</p>
 
 		<p><strong>Contact:</strong> This section will contain a simple contact form which
 		allows employers to contact me through my professional email and links to my
