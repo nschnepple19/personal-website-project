@@ -19,9 +19,9 @@ You might also want to take a look at this here if you're also looking at making
 
 Additional recommendations:
 
-[Google Fonts](https://fonts.google.com/) for custom typography - it has ~1000 fonts and is easy to integrate.
-[Bootstrap](https://getbootstrap.com/) will have all the documentation you need for generating a quick layout for your site.
-[FontAwesome](https://fontawesome.com/) is a good quality free library for including iconography.
+ [Google Fonts](https://fonts.google.com/) for custom typography - it has ~1000 fonts and is easy to integrate.
+ [Bootstrap](https://getbootstrap.com/) will have all the documentation you need for generating a quick layout for your site.
+ [FontAwesome](https://fontawesome.com/) is a good quality free library for including iconography.
 
 You might want to read ahead regarding the contact form integration, and that documentation is here: https://bootcamp-coders.cnm.edu/class-materials/jquery-validated-captcha-form/
 
